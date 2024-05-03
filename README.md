@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### About Me
+I’m currently learning Machine Learning
 <!--
 **DellaLin/DellaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
